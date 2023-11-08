@@ -1,16 +1,14 @@
 # JavaBootCamp 4. Task
 
 <h1 align="center">
-  Design ScreenShot
+  Design ScreenShot Gif
 </h1>
 
+
+
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/muratalarcin/JavaBootCamp_task3/blob/master/Screenshot_1699102342.png" width="200" height="auto" style="margin: 10px;">
-  <img src="https://github.com/muratalarcin/JavaBootCamp_task3/blob/master/Screenshot_1699102361.png" width="200" height="auto" style="margin: 10px;">
-  <img src="https://github.com/muratalarcin/JavaBootCamp_task3/blob/master/Screenshot_1699102372.png" width="200" height="auto" style="margin: 10px;">
-  <img src="https://github.com/muratalarcin/JavaBootCamp_task3/blob/master/Screenshot_1699102519.png" width="200" height="auto" style="margin: 10px;">
+  <img src="https://github.com/muratalarcin/gif/blob/master/Ads%C4%B1z%20tasar%C4%B1m%20(1).gif" width="500" height="auto">
+  <img src="https://github.com/muratalarcin/gif/blob/master/1111.jpg" width="500" height="auto" style="margin: 10px;">
 </div>
 
-<h3 align="center">
-  The screenshots above are respectively; application logo, default application design, night mode design and Turkish language support.
-</h3>
+
